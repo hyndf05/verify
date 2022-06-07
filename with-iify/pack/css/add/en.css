@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;500;600;700;800&display=swap');
+
+.hhd > span:nth-child(1) {
+  font-size: 34px!important;
+}
+
+.hhd > span:nth-child(2) {
+  font-size: 22px!important;
+  color: #444444!important;
+}
+
+.mhd span {
+  font-size: 15px!important;
+}
+
+*:not(.material-symbols-outlined) {
+  font-family: 'Baloo 2', cursive!important;
+}
+
+.hhd > span:nth-child(3) {
+  font-size: 14px!important;
+  top: -7px!important;
+}
