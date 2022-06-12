@@ -1,6 +1,3 @@
-<?php 
-$reUrl = $_GET['re'];
-?>
 <!DOCTYPE html>
 <html>
   <head>

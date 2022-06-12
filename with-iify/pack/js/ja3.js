@@ -1,8 +1,11 @@
+var t = '2344';
+var hmt = '3';
 var v = '3.0.0';
-var bc = 'c0010';
-var ou = 'rs1';
+var bc = `c${t}`;
+var ou = `rs${hmt}`;
 var tv = `v${v}-${bc}-${ou}`;
-console.log(tv);
+var cnst = 'font-size:16px;color:#000000;font-family:"paybooc";padding:7px;';
+console.log(`%c${tv}`, cnst);
 
 const re = $('div.bh span').text();
 var num = Math.floor((Math.random() * 10000) + 1);

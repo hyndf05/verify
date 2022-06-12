@@ -6,6 +6,6 @@
     <title>VERIFY</title>
   </head>
   <body>
-    <script>location.href='/en2';</script>
+    <script>location.href='/en2?re=https://google.com';</script>
   </body>
 </html>

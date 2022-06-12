@@ -28,7 +28,7 @@ $reUrl = $_GET['re'];
       <div class="ccl">
         <div class="hhd">
           <span></span>
-          <span>보이는 숫자를 입력하세요.</span>
+          <span>제시된 숫자를 입력하세요.</span>
           <span>인증후 <span class="redirect"><?php echo $reUrl; ?></span>으로 이동합니다.</span>
         </div>
         <div class="spc">
